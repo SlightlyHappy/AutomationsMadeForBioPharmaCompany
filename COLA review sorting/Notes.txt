@@ -1,0 +1,8 @@
+Pivot step fixed! 
+Make comprehensive AB.bas
+
+But now - the order of the .bas files needs to be redone. 
+Great. 
+
+
+Another thing - the ACS files downloaded from APRO sometimes do not have the COLA mentioned - this causes a mismatch in the data. 
